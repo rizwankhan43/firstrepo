@@ -11,3 +11,4 @@ mutiple or divide...left to right first reolves similarly for addition and subst
 # 4..donot use keywords use in function ,,,med,test,
 # short and discriptive
 # case sentivity..lower and upper case letters...lower case recommended
+# i ahve made my first commit successfully
